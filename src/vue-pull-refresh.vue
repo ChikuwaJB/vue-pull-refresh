@@ -224,7 +224,6 @@
         height: 0px;
         overflow: hidden;
         position: relative;
-        background-color: #2c3133;
     }
     .pull-down-content {
         position: absolute;
@@ -236,7 +235,6 @@
         color: #d5d5d5;
         text-align: center;
         border-left: 20px solid transparent;
-        font-family: "noto-thin", "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-size: 14px;
         &--icon {
             float: left;
